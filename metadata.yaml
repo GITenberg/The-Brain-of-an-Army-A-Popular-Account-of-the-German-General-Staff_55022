@@ -1,5 +1,8 @@
 _repo: The-Brain-of-an-Army-A-Popular-Account-of-the-German-General-Staff_55022
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55022-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wilkinson, Spenser
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3607
     wikipedia: http://en.wikipedia.org/wiki/Spenser_Wilkinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55022#The-Brain-of-an-Army-A-Popular-Account-of-the-German-General-Staff
 gutenberg_issued: '2017-07-01'
 gutenberg_type: Text
 identifiers:
